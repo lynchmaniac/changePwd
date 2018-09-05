@@ -1,0 +1,16 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "changepwd-darwin-x64/changepwd.app/Contents/Resources/app/package.json",
+        "changepwd-linux-armv7l/resources/app/package.json",
+        "changepwd-linux-ia32/resources/app/package.json",
+        "changepwd-linux-x64/resources/app/package.json",
+        "changepwd-mas-x64/changepwd.app/Contents/Resources/app/package.json",
+        "changepwd-win32-ia32/resources/app/package.json",
+        "changepwd-win32-x64/resources/app/package.json",
+        "package.json"
+      ]
+    }
+  }
+}
