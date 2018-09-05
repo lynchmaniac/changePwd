@@ -11,10 +11,10 @@
   "license": "ISC",
   "devDependencies": {
     "electron-connect": "^0.6.1",
-    "electron-packager": "^8.3.0"
+    "electron-packager": "^12.1.1"
   },
   "dependencies": {
-    "electron": "^1.4.8",
+    "electron": "^2.0.8",
     "glob": "^7.1.1"
   }
 }
